@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/profileButton"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:title="Profile"/>
+
+        <item
+            android:id="@+id/providerButton"
+            android:icon="@drawable/ic_chrome_reader_mode_black_18dp"
+            android:title="Provider Tasks"/>
+
+        <item
+            android:id="@+id/requesterButton"
+            android:icon="@drawable/ic_receipt_black_18dp"
+            android:title="Requestor Tasks"/>
+
+        <item
+            android:id="@+id/myLocationButton"
+            android:icon="@drawable/icons8_home"
+            android:title="My Location"/>
+
+        <item
+            android:id="@+id/SearchButton"
+            android:icon="@drawable/ic_search_white_24dp"
+            android:title="Search a task"/>
+
+    </group>
+</menu>

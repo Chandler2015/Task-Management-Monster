@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Task-Management-Monster</string>
+    <string name="new_title">New Task Title</string>
+    <string name="new_description">New Task Description</string>
+    <string name="new_titile_hint">Please enter title</string>
+    <string name="new_description_hint">Please enter description</string>
+    \
+    <string name="new_button_create">Create</string>
+    <string name="new_button_image">Add Image</string>
+    <string name="detail_title_view">Task Title:</string>
+    <string name="detail_description_view">Description:</string>
+    <string name="detail_status_view">Current Status:</string>
+    <string name="detail_username_view">Task Requester:</string>
+    <string name="detail_bid_edit">Enter Bid Amount ($)</string>
+    <string name="detail_title_edit">Enter Modified Title</string>
+    <string name="detail_Description_edit">Enter Modified Description</string>
+    <string name="bid_provider">Task Provider</string>
+    <string name="bid_amount">Bid Amount</string>
+    <string name="bid_email">Provider Email</string>
+    <string name="bid_phone">provider Phone</string>
+    <string name="bid_button_assgin">Assign</string>
+    <string name="bid_button_decline">Decline</string>
+    <string name="register_phone">Please Enter Phone Number</string>
+    <string name="register_email">Please Enter Email</string>
+    <string name="register_username">Please Enter Username</string>
+    <string name="register_button">Save</string>
+    <string name="login_login_button">Login</string>
+    <string name="login_register_button">Register</string>
+    <string name="main_new_button">Create New Task</string>
+    <string name="main_button_search">Search New Task</string>
+    <string name="main_provider_task">Provider My Task</string>
+    <string name="main_requester_task">Requester My Task</string>
+    <string name="main_profile">My Profile</string>
+    <string name="title_activity_location_service">Map</string>
+    <string name="title_activity_main_screen_maps">Map</string>
+    <string name="image_button_select">Select Image</string>
+    <string name="image_button_store">Store Image</string>
+    <string name="image_button_delete">delete Image</string>
+    <string name="image_button_delete_all">delete All Image</string>
+    <string name="image_button_new">Upload New Image</string>
+</resources>
